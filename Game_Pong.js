@@ -1,4 +1,5 @@
 //Here is the game pong in js, it's finished.
+//you have to use a librarie in it for verificaColisaoOponente.
 //variáveis da bolinha
 let xBolinha = 300;
 let yBolinha = 200;
